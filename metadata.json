@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EnTrack Smart Engine Monitor",
+  "description": "A high-performance maritime engine monitoring dashboard featuring real-time telemetry, predictive maintenance alerts, and AI-driven diagnostic insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
